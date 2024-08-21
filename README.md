@@ -1,7 +1,3 @@
-# IRIS
-## Iris Dataset Classification and Clustering 
-This project uses the classic Iris dataset to perform classification and clustering tasks using various machine learning techniques. The notebook provides a step-by-step guide to preprocess the data, visualize it, and apply machine learning models to classify and cluster the iris species
-
 # Iris Dataset Analysis
 ## Introduction
 
